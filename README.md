@@ -68,4 +68,4 @@ A taxa de entrega aumenta com o aumento da distância. Isso indica que os restau
 
 # Como rodar
 
-> Clique [aqui](https://github.com/JhenyfferOliveira/Projeto-AnaliseDados-Ada/blob/main/projeto_final_modulo_4.ipynb) e veja a limpeza e as visualizações realizadas.
+> Clique [aqui](https://github.com/UdenalR/an-lise_de_restaurantes_iFood/blob/main/projeto_final_modulo_4.ipynb) e veja a limpeza e as visualizações realizadas.
